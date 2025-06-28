@@ -35,7 +35,7 @@ Ogni cartella contiene:
 ### Multiblock Metabolomic Analysis of Maternal Plasma to Identify Risk Factors for Congenital Heart Disease
 *Il progetto sfrutta l’analisi metabolomica avanzata per identificare potenziali fattori di rischio materni associati alla cardiopatia congenita (CHD). Integrando dati da due modalità di ionizzazione complementari (ESI+ e ESI-), vengono applicate tecniche chemometriche multiblocco per identificare firme metaboliche rilevanti, con l’obiettivo di migliorare la comprensione eziologica della CHD e supportare lo sviluppo di modelli predittivi clinicamente utili.*
 
-📄 Report: [Artificial Intelligence for Omics Data Analysis report](Health%20Data%20Analysis/Group03_AIODA_PW_REPORT.pdf)
+📄 Report: [Artificial Intelligence for Omics Data Analysis report](Artificial%Intelligence%for%20Omics%20Data%20Analysis/Group03_AIODA_PW_REPORT.pdf)
 
 
 ---
