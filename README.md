@@ -21,12 +21,15 @@ Ogni cartella contiene:
 ### Evaluation of Domain Augmentation Techniques for Cross-Modality Liver Segmentation in CT and MRI Images
 *Questo lavoro analizza l’efficacia di tecniche di domain augmentation, in particolare AugMix e augmentazioni strutturate, per migliorare la segmentazione del fegato in immagini TC e RM. Utilizzando il dataset CHAOS e un modello U-Net, i risultati mostrano come tali strategie migliorino la generalizzazione cross-modality, superando un approccio basato su CycleGAN in termini di accuratezza e conservazione anatomica.*  
 
-📄 Report: [`Project_2/Report/project2_report.pdf`](Project_2/Report/project2_report.pdf)
+📄 Report: [`Medical Imaging report`](Medical%20Imaging/Report_Medical_Imaging.pdf)
 
 ---
 
 ### Statistical Learning Techniques for Regression and Classification in Clinical Datasets
 *Questo progetto esplora metodi di supervised learning applicati a dati medici, con particolare attenzione a feature selection e tecniche di regularization (Lasso, Ridge, ElasticNet) per migliorare accuratezza e interpretabilità dei modelli. Attraverso una valutazione completa basata su cross-validation e metriche quali ROC AUC e F1-score, vengono evidenziate strategie per mitigare l’overfitting e potenziare le prestazioni predittive in ambito sanitario. *
+
+📄 Report: [`Health Data Analysis report`](Health%20Data%20Analysis/Goup02_Report_Pw_HealthDataAnalytics.pdf)
+
 
 ## 📌 Obiettivi della repository
 
