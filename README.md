@@ -43,7 +43,7 @@ Ogni cartella contiene:
 ### Wearable System for Real-Time Cardiac Monitoring Using ECG and PPG Signals
 *Questo progetto sviluppa un sistema indossabile per il monitoraggio in tempo reale della salute cardiaca tramite segnali ECG e PPG. Il dispositivo offre tre modalità operative: visualizzazione di frequenza cardiaca e variabilità, monitoraggio dei segnali e analisi avanzata delle tendenze. Fornisce feedback immediato su display OLED e comunicazione UART, facilitando la rilevazione precoce di anomalie cardiache.*
 
-📄 Report: [Artificial Intelligence for Omics Data Analysis report](Embeddeed%20System%20For%20E-Health/Report_Embedded_System_for_E_Health.pdf
+📄 Report: [Embedded System for E_Health report](Embeddeed%20System%20For%20E-Health/Report_Embedded_System_for_E_Health.pdf)
 
 ---
 
