@@ -12,12 +12,14 @@ Ogni cartella contiene:
 
 ###  Natural Computation Approaches for Interpretable Prediction of Coronary Heart Disease (CHD)
 *Progettazione e sviluppo di un sistema di classificazione supervisionato per la previsione della cardiopatia coronarica (CHD), mediante l’impiego di tecniche di Natural Computation, in particolare la Grammatical Evolution (GE). Basandosi sui dati clinici del Framingham Heart Study, l’obiettivo è generare modelli decisionali interpretabili e accurati, idonei al supporto decisionale in ambito medico e alla personalizzazione degli interventi clinici.*
-📄 Report: [`Natural Computation/Natural_Computation_Project.pdf`]('Natural Computation/Natural_Computation_Project.pdf')
+
+📄 Report: ["Natural Computation/Natural_Computation_Project.pdf"]('Natural Computation/Natural_Computation_Project.pdf')
 
 ---
 
 ### Evaluation of Domain Augmentation Techniques for Cross-Modality Liver Segmentation in CT and MRI Images
 *Questo lavoro analizza l’efficacia di tecniche di domain augmentation, in particolare AugMix e augmentazioni strutturate, per migliorare la segmentazione del fegato in immagini TC e RM. Utilizzando il dataset CHAOS e un modello U-Net, i risultati mostrano come tali strategie migliorino la generalizzazione cross-modality, superando un approccio basato su CycleGAN in termini di accuratezza e conservazione anatomica.*  
+
 📄 Report: [`Project_2/Report/project2_report.pdf`](Project_2/Report/project2_report.pdf)
 
 ---
