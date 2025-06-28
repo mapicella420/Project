@@ -60,7 +60,7 @@ Questa raccolta nasce con l’obiettivo di documentare il mio percorso formativo
 ## 👨‍💻 Contatti
 
 📧 [mapicella420@gmail.com]  
-🔗 [LinkedIn]([https://www.linkedin.com/in/tuo-profilo/](https://www.linkedin.com/in/mario-apicella-4160481b0/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/mario-apicella-4160481b0/)
 
 ---
 
