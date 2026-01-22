@@ -5,9 +5,8 @@ Each project focuses on key topics such as artificial intelligence, machine lear
 
 Each folder contains:
 
-The complete project report
-
-Links to external resources or demos (where available)
+- The complete project report
+- Links to external resources or demos (where available)
 
 
 ## Included Projects
