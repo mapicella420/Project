@@ -1,4 +1,4 @@
-# Digital Medicine Projects
+# Academic Projects
 
 This repository collects a selection of academic projects developed during my Master’s degree in Information Engineering for Digital Medicine.
 Each project focuses on key topics such as artificial intelligence, machine learning, e-health, and computational applications in the medical domain.
